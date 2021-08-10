@@ -11,7 +11,7 @@
   </tr>
 </table>
 
-## Primeros Pasos
+## Primeros Pasos  { "cmd": ["cmd", "/c", "$file"] 
 
 ### Preparando tu compu:
 
