@@ -1,17 +1,38 @@
 
 
        #spanId {font-size: 18px;
-                margin: 50px; }
+                margin: 50px; 
+                text-align:center ;
+              
+              }
        #thirdDiv { 
                   width: 500px ;
                   height: 700px ;
                   background-color: rgb(118, 177, 207);
                   padding: 50px;
                   border-style: solid; 
-                  border-color: orange; }
-       .divclass { color: darkolivegreen;}
-       h1 {color: crimson; }
+                  border-color: orange; 
+                  margin: 0 auto;
+              }
+       .divclass { color: darkolivegreen;
+              
+                   display: flex;
+                   justify-content: center;
+       }
+       h1 {color: rgb(8, 45, 94); 
+              text-align: center}
+       h3 { text-align: center     } 
+       
+       h4 { text-align: center }
+       
        img {width: 400px ;}  
+
+       span {display: flex;
+              justify-content: center; }
+       a {display: flex;
+              justify-content: center; }
+
+       
       
       
   
